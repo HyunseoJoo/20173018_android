@@ -26,7 +26,7 @@
 <img width="984" alt="4st_메세지 스샷" src="https://user-images.githubusercontent.com/101614965/160530083-ab57f32a-33b2-4b23-9d7d-c47bd5e3402e.png">
 
 
-#5주치(2022_04_05)
+#5주차(2022_04_05)
 
 (1) activity_main.xml
 
@@ -43,4 +43,13 @@
  <img width="259" alt="스크린샷 2022-04-06 오후 9 46 57" src="https://user-images.githubusercontent.com/101614965/161978578-1d4a55e8-19fb-442e-92c0-af5e53284024.png">
 
  
+#6주차(202_04_12)
 
+(1) 넓이
+
+<img width="1219" alt="스크린샷 2022-04-16 오후 6 43 26" src="https://user-images.githubusercontent.com/101614965/163670317-10390ed9-e40e-41f0-812a-c6419eed5ec3.png">
+
+
+(2)높이
+
+<img width="1254" alt="스크린샷 2022-04-16 오후 6 43 39" src="https://user-images.githubusercontent.com/101614965/163670326-322179ae-9fcc-4fbe-8529-b76177c4d492.png">
