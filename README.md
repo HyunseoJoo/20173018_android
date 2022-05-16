@@ -53,3 +53,28 @@
 (2)높이
 
 <img width="1254" alt="스크린샷 2022-04-16 오후 6 43 39" src="https://user-images.githubusercontent.com/101614965/163670326-322179ae-9fcc-4fbe-8529-b76177c4d492.png">
+
+
+#10주차(2022_05_10)
+
+<결과화면>
+
+(1)
+<img width="1440" alt="스크린샷 2022-05-16 오후 2 53 33" src="https://user-images.githubusercontent.com/101614965/168528530-381e14c1-c17f-45b7-bdcf-106b60e33212.png">
+
+
+(2)
+<img width="1440" alt="스크린샷 2022-05-16 오후 2 53 36" src="https://user-images.githubusercontent.com/101614965/168528451-3cc1b4b0-79e7-4d39-93cc-f2b3d190bf5d.png">
+
+
+(3)
+<img width="1440" alt="스크린샷 2022-05-16 오후 2 53 40" src="https://user-images.githubusercontent.com/101614965/168528390-f565a47c-6db0-481f-b1d2-dc0408f6d8e8.png">
+
+<코드>
+
+(1)main
+<img width="1440" alt="스크린샷 2022-05-16 오후 2 53 18" src="https://user-images.githubusercontent.com/101614965/168528576-fced64ab-7aeb-489f-b337-72b3970e071e.png">
+
+
+(2)menu
+<img width="1440" alt="스크린샷 2022-05-16 오후 2 54 10" src="https://user-images.githubusercontent.com/101614965/168528662-b1c9008e-4c49-4683-a6ee-f8f2f0d32149.png">
