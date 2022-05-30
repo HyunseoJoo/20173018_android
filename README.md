@@ -98,4 +98,5 @@
 
 <img width="560" alt="스크린샷 2022-05-30 오후 11 58 25" src="https://user-images.githubusercontent.com/101614965/171018456-94694718-a9e2-4141-a3c7-735b359ddc3f.png">
 
+<img width="131" alt="스크린샷 2022-05-31 오전 12 00 12" src="https://user-images.githubusercontent.com/101614965/171018802-3799d960-d572-4bcc-bdbd-ea110bd3256e.png">
 
