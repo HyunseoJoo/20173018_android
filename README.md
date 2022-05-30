@@ -85,3 +85,11 @@
 
 <img width="305" alt="스크린샷 2022-05-23 오전 2 47 18" src="https://user-images.githubusercontent.com/101614965/169708685-d4601ff0-c5a5-4219-b236-2048c9657fbc.png">
 
+
+#12주차(2022_05_24)
+
+(1) 영화 정보 수
+<img width="267" alt="스크린샷 2022-05-30 오후 11 54 38" src="https://user-images.githubusercontent.com/101614965/171017819-92aabe1c-a3aa-4be2-8090-65ffcbc2185c.png">
+
+
+
