@@ -89,7 +89,13 @@
 #12주차(2022_05_24)
 
 (1) 영화 정보 수
+
 <img width="267" alt="스크린샷 2022-05-30 오후 11 54 38" src="https://user-images.githubusercontent.com/101614965/171017819-92aabe1c-a3aa-4be2-8090-65ffcbc2185c.png">
 
+(2)
+
+안드로이드 스튜디오와 github를 연동하기 위해 git을 다운 받았지만 오류가 나서 연동이 불가능합니다.
+
+<img width="560" alt="스크린샷 2022-05-30 오후 11 58 25" src="https://user-images.githubusercontent.com/101614965/171018456-94694718-a9e2-4141-a3c7-735b359ddc3f.png">
 
 
